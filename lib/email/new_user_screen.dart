@@ -1,7 +1,5 @@
 // ignore_for_file: prefer_const_constructors
 
-
-
 import 'log_in_screen.dart';
 import 'package:firebase_auth/firebase_auth.dart';
 import 'package:flutter/cupertino.dart';
