@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="facebook_app_id">254200426902021</string>
+    <string name="fb_login_protocol_scheme">fb254200426902021</string>
+    <string name="app_name">crudfirebase</string>
+<!--    <string name="facebook_client_token">a0228f4de290586073b54a753211a746</string>-->
+
+
+
+
+</resources>
