@@ -19,6 +19,8 @@ dependencies:
   firebase_core: ^1.12.0
   #google
   google_sign_in: ^5.2.4
+  #pinput:
+  pinput: ^1.2.2
 
 dev_dependencies:
   flutter_test:
